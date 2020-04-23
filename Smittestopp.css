@@ -1,0 +1,40 @@
+body{
+  background-color: black;
+}
+
+h1{
+  color: red;
+  text-align: center;
+  font-family: monospace;
+  font-size: 50px;
+}
+
+h2{
+  color: red;
+  text-align: center;
+  font-family: monospace;
+}
+
+p{
+  color: red;
+  text-align: center;
+  font-family: monospace;
+}
+
+div{
+  text-align: center;
+}
+
+img{
+  box-shadow: 10px 10px 20px red;
+}
+
+ul{
+  color: red;
+  font-family: monospace;
+  text-align: center;
+}
+
+li:nth-child(odd){
+  color: deepskyblue;
+}
